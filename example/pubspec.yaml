@@ -1,5 +1,6 @@
 name: example
 description: Example for flutter_keyboard_size package
+publish_to: none
 
 version: 1.0.0
 
